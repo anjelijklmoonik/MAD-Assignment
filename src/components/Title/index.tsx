@@ -4,7 +4,7 @@ import {View, Text, StyleSheet} from 'react-native';
 const Title = () => {
     return (
         <View>
-            <Text style={style.title}>Welcome</Text>
+            <Text style={style.title}>Registration</Text>
         </View>
     );
 };
